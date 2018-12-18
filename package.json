@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "scripts": {},
+    "devDependencies": {
+        "curl": "^7.58.0"
+    }
+}
